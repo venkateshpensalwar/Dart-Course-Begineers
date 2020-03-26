@@ -1,2 +1,2 @@
 # Dart-Course-Begineers
-it is starting point for dart 
+it is starting point for Dart  Technology
